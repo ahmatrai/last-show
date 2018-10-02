@@ -32,7 +32,7 @@
 }
 
 .list-music {
-  list-style-image: url(assets/star.svg);
+  list-style-image: url(../assets/star.svg);
 }
 
 .list-music li {
